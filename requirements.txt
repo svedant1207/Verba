@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+langchain
+langchain-openai # Or your preferred LLM provider
+python-dotenv
+python-multipart
